@@ -5,7 +5,7 @@
 
 
 <h2>Description</h2>
-This Azure subscription was used to create a simulated Security Operations Center (SOC) environment using Microsoft Sentinel. Resources were deployed securely under a single resource group, with NSGs applied and logs ingested into Log Analytics for analysis. The lab demonstrated Azure security configuration, event monitoring, and cost management best practices.
+This Azure subscription was used to create a simulated Security Operations Center (SOC) environment using Microsoft Sentinel. Resources were deployed securely under a single resource group, with NSGs applied and logs ingested into Log Analytics for analysis. The lab demonstrated Azure security configuration, event monitoring for best practices.
 <br />
 
 
